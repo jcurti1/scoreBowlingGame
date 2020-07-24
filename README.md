@@ -21,7 +21,7 @@ Once you have entered the score for each frame, hit the calcute button to get yo
 ```
 
 ## Picture Demo Below
-![alt text](https://github.com/jcurti1/scoreBowlingGame/master/BowlingDemo1.png?raw=true)
+![alt text](https://github.com/jcurti1/scoreBowlingGame/blob/master/BowlingDemo1.png)
 
 
 ## Note
