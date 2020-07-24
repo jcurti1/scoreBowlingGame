@@ -5,6 +5,7 @@
 java version "1.8.0_201"
 Java(TM) SE Runtime Environment (build 1.8.0_201-b09)
 Java HotSpot(TM) 64-Bit Server VM (build 25.201-b09, mixed mode)
+Source Code must be within the same package to run.
 ```
 
 ## Description
@@ -20,6 +21,7 @@ Once you have entered the score for each frame, hit the calcute button to get yo
 ```
 
 ## Picture Demo Below
+![alt text](https://github.com/jcurti1/scoreBowlingGame/master/BowlingDemo1.png?raw=true)
 
 
 ## Note
