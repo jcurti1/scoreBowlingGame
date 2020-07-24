@@ -23,6 +23,7 @@ Once you have entered the score for each frame, hit the calcute button to get yo
 
 
 ##Note
+
 In most cases if you don't follow the rules, the application will show and error message and close.
 
 ##Test Environment
